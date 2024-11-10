@@ -1,5 +1,8 @@
 <h1>Hi 👋, I'm Aritra</h1>
-<p>a backend developer on weekdays, a full-stack developer on weekends, and occasionally a DevOps enthusiast.</p>
+<p>a backend web developer on weekdays, a full-stack developer on weekends, and occasionally a DevOps enthusiast. I'm interested in building next gen SaaS solution to enpower businesses. I'm looking to collaborate on projects that are using typescript.</p>
+
+# 👨🏻‍💻 Recent Works:
+- [Class Validator Custom Errors](https://www.npmjs.com/package/class-validator-custom-errors)
 
 # 💻 Tech Stack:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
