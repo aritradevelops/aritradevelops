@@ -1,16 +1,23 @@
 <h1>Hi 👋, I'm Aritra</h1>
-<p>a backend web developer on weekdays, a full-stack developer on weekends, and occasionally a DevOps enthusiast. I'm interested in building next gen SaaS solutions to enpower businesses. I'm looking to collaborate on projects that are using typescript.</p>
+<p>A backend engineer on weekdays, a full-stack engineer on weekends, and occasionally a DevOps enthusiast. I'm interested in building low level solutions to empower the tech world. I'm looking to collaborate on projects that are using go/typescript.</p>
 
 # 👨🏻‍💻 Recent Works:
+- [Hush](https://hush.swiftgeek.dev/)
+- [Maas](https://maas-alpha.vercel.app/)  
 - [Class Validator Custom Errors](https://www.npmjs.com/package/class-validator-custom-errors)
+- [AI Report Generator](https://github.com/aritradevelops/Report-AI)
+- [VsCode Read Comments Fun Extension](https://github.com/aritradevelops/vscode-read-comments)
 
 # 💻 Tech Stack:
+![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
