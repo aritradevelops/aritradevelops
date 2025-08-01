@@ -2,7 +2,7 @@
 <p>A backend engineer on weekdays, a full-stack engineer on weekends, and occasionally a DevOps enthusiast. I'm interested in building low level solutions to empower the tech world. I'm looking to collaborate on projects that are using go/typescript.</p>
 
 # 👨🏻‍💻 Recent Works:
-- [Hush](https://hush.swiftgeek.dev/)
+- [Hush](https://hush.swiftgeek.in/)
 - [Maas](https://maas-alpha.vercel.app/)  
 - [Class Validator Custom Errors](https://www.npmjs.com/package/class-validator-custom-errors)
 - [AI Report Generator](https://github.com/aritradevelops/Report-AI)
